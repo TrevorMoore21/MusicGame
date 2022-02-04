@@ -19,17 +19,24 @@ public class RandomNumberG
 				
 				YoN3 = JOptionPane.showConfirmDialog(MenuPop.frame, 
 						"I play a song, and you pick the correct author", 
-						"", JOptionPane.KID_OPTION,
+						"", JOptionPane.OK_OPTION,
 						JOptionPane.QUESTION_MESSAGE);
 			}
-		else if(introNum == 2)
-			{
-				System.out.println("Wassup Fart-Catcher, welcome to Monopoly");
-			}
-		else
-			{
-				System.out.println("Welcome to Monopoly fool");
-			}
+			
+			
+			
+			
+			
+			
+			
+//		else if(introNum == 2)
+//			{
+//				System.out.println("Wassup Fart-Catcher, welcome to Monopoly");
+//			}
+//		else
+//			{
+//				System.out.println("Welcome to Monopoly fool");
+//			}
 		}
 	
 	}
