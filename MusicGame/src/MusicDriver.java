@@ -10,7 +10,7 @@ public class MusicDriver
 		public static void main(String[] args)
 			{
 				
-				Framez.Menu();
+				Framez.music();
 				
 //				String filepath = "Kid.Laugh1.wav";
 //				ReadMusic.readSong2(filepath);
